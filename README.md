@@ -13,8 +13,6 @@ Optional:
 
 - Serve locally for testing with a simple HTTP server (Python 3):
 
-```bash
-python -m http.server 8000
 ```
 
 Then open http://localhost:8000
